@@ -69,11 +69,11 @@ exec ztm-ioq3-veryhighquality.cfg; vid_restart
 ## Source Code
 
 The source code is available on GitHub licensed as GPLv2+ in the
-zturtleman/flexible-hud-for-ioq3 repository.
+clover-moe/flexible-hud-for-ioq3 repository.
 
 To build it from a terminal use the following:
 
-    git clone https://github.com/zturtleman/flexible-hud-for-ioq3.git
+    git clone https://github.com/clover-moe/flexible-hud-for-ioq3.git
     cd flexible-hud-for-ioq3
     git checkout flexible_hud-r8
     make BUILD_SERVER=0 BUILD_CLIENT=0

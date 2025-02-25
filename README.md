@@ -1,6 +1,6 @@
 **ZTM's Flexible HUD mod for ioquake3** is a mod for [ioquake3](https://github.com/ioquake/ioq3) with widescreen HUD and other features. See the [website](https://clover.moe/flexible-hud-for-ioq3/) for more details.
 
-Flexible HUD code commits: [compare/upstream...master](https://github.com/zturtleman/flexible-hud-for-ioq3/compare/upstream...master)
+Flexible HUD code commits: [compare/upstream...master](https://github.com/clover-moe/flexible-hud-for-ioq3/compare/upstream...master)
 
 ## Compiling
 
@@ -9,14 +9,14 @@ ZTM's Flexible HUD mod for ioquake3 is compiled using `make`. For details see th
 The engine is unmodified ioquake3. You could build only the mod using the following:
 
 ```
-git clone https://github.com/zturtleman/flexible-hud-for-ioq3.git
+git clone https://github.com/clover-moe/flexible-hud-for-ioq3.git
 cd flexible-hud-for-ioq3
 make BUILD_SERVER=0 BUILD_CLIENT=0
 ```
 
 ## Discussion
 
-  * [Discord (Clover.moe Community)](https://discord.gg/YJEYxFfSDy)
+  * [Discussion / Technical support](https://clover.moe/open-source)
 
 
 ## License
